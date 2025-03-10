@@ -1,7 +1,16 @@
 #secondary {
     background-color: rgb(75, 102, 240);
     color: white;
-    width: 150px;
-    height: 70px;
+    text-align: center;
+    font: bold;
+    padding: 20px;
     border-radius: 10px;
+    border-style: none;
+
+    width: 18%;
+}
+
+#secondary:hover {
+    background-color: rgb(59, 90, 245);
+    cursor: pointer;
 }
