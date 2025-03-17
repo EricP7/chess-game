@@ -3,7 +3,8 @@
     color: white;
     text-align: center;
     font: bold;
-    padding: 20px;
+    font-size: large;
+    padding: 18px;
     border-radius: 10px;
     border-style: none;
 }
