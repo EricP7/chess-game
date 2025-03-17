@@ -1,4 +1,4 @@
-#secondary {
+.secondary {
     background-color: rgb(75, 102, 240);
     color: white;
     text-align: center;
@@ -8,7 +8,7 @@
     border-style: none;
 }
 
-#secondary:hover {
+.secondary:hover {
     background-color: rgb(75, 90, 240);
     cursor: pointer;
 }
