@@ -7,9 +7,28 @@
     padding: 18px;
     border-radius: 10px;
     border-style: none;
+
+    /* HOW TO CENTER A DIV... */
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .secondary:hover {
     background-color: rgb(75, 90, 240);
     cursor: pointer;
+}
+
+
+.open-sans {
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-variation-settings: "wdth" 100;
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
