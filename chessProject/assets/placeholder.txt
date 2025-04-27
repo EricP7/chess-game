@@ -1,2 +1,0 @@
-This directory will contain chess piece images in a real project.
-For now, we're generating piece images using p5.js directly.
